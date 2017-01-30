@@ -1,6 +1,7 @@
 SmartRoot
 =========
 
+
 SmartRoot is a semi-automated image analysis software which streamlines the quantification of root growth and architecture for complex root systems.
 
 The software combines a vectorial representation of root objects with a powerful tracing algorithm which accommodates to a wide range of image source and quality. 
@@ -15,4 +16,4 @@ To cite us:
 
 [Link to paper](http://dx.doi.org/10.1104/pp.111.179895)
 
-[SmartRoot Web Site](http://www.uclouvain.be/smartroot) | [Download](http://sourceforge.net/projects/smartroot/)
+[SmartRoot Web Site](http://www.uclouvain.be/smartroot) | [Download](SmartRoot-Installation/SmartRoot.zip)
