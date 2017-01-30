@@ -13,7 +13,7 @@ SmartRoot is an operating system independent freeware based on ImageJ and uses c
 
 ## Downloads
 
-- [Download executable](SmartRoot-Installation/SmartRoot.zip)
+- [Download executable](https://github.com/SmartRoot/SmartRoot-Installation/raw/master/SmartRoot.zip)
 - [Smartroot source code](https://github.com/SmartRoot/SmartRoot)
 - [SmartRoot manual](https://github.com/SmartRoot/SmartRoot-Installation/raw/master/SmartRoot%20User%20Guide.pdf)
 - [SmartRoot quickstart](https://github.com/SmartRoot/SmartRoot-Installation/raw/master/Quick%20Start%20SmartRoot.pdf)
