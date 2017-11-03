@@ -1,15 +1,6 @@
 
 ![logo](https://raw.githubusercontent.com/SmartRoot/SmartRoot-Installation/master/img/smartroot.jpg)
 
-Welcome!
-
-SmartRoot is a semi-automated image analysis software which streamlines the quantification of root growth and architecture for complex root systems.
-
-The software combines a vectorial representation of root objects with a powerful tracing algorithm which accommodates to a wide range of image source and quality. 
-
-The software supports a sampling-based analysis of root system images, in which detailed information is collected on a limited number of roots selected by the user according to specific research requirements. 
-
-SmartRoot is an operating system independent freeware based on ImageJ and uses cross-platform standards (XML, SQL, Java) for communication with data analysis softwares.
 
 ![screenshots](https://github.com/SmartRoot/SmartRoot-Installation/raw/master/img/smartroot1.jpg)
 
