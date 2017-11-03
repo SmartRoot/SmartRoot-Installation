@@ -11,6 +11,7 @@ The software supports a sampling-based analysis of root system images, in which 
 
 SmartRoot is an operating system independent freeware based on ImageJ and uses cross-platform standards (XML, SQL, Java) for communication with data analysis softwares.
 
+
 ![screenshots](https://github.com/SmartRoot/SmartRoot-Installation/raw/master/img/smartroot1.jpg)
 
 ## Downloads
